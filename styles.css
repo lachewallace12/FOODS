@@ -1,0 +1,35 @@
+ .header,
+ .main1, .food-lovah {
+     display: flex;
+     justify-content: center;
+ }
+ .food-lovah {
+      color: red;
+ }
+
+
+ img {
+     width: 800px;
+ }
+
+ body {
+     background-image: url("https://i.pinimg.com/originals/07/f7/27/07f72772fee4f51adcf8f9aa9fa1a8e0.gif");
+
+ }
+
+ h1 {
+     color: white;
+ }
+
+ img {
+     width: 400px;
+ }
+
+ margin {}
+
+ .child-image {
+     margin: 60px;
+     width: 100px;
+ }
+
+ .food-image {}
